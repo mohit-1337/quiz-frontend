@@ -1,0 +1,13 @@
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .home-heading {
+    font-size: 2rem;
+    color: #000; /* Green color */
+    font-weight: 600;
+  }
+  
